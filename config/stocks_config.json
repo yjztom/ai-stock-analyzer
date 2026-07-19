@@ -17,6 +17,24 @@
     {"symbol": "000001.SZ", "name": "平安银行", "market": "SZ", "note": ""},
     {"symbol": "300750.SZ", "name": "宁德时代", "market": "SZ", "note": "新能源"},
     {"symbol": "000858.SZ", "name": "五粮液",   "market": "SZ", "note": ""},
-    {"symbol": "002594.SZ", "name": "比亚迪",   "market": "SZ", "note": "新能源车"}
+    {"symbol": "002594.SZ", "name": "比亚迪",   "market": "SZ", "note": "新能源车"},
+
+    {"symbol": "600326.SS", "name": "西藏天路",   "market": "SH", "note": "持仓"},
+    {"symbol": "588000.SS", "name": "科创50ETF", "market": "SH", "note": "持仓-ETF"},
+    {"symbol": "002658.SZ", "name": "雪迪龙",     "market": "SZ", "note": "持仓"},
+    {"symbol": "ZTO",        "name": "中通快递",   "market": "US", "note": "持仓-美股ADR"},
+    {"symbol": "688327.SS", "name": "云从科技",   "market": "SH", "note": "持仓-科创板"},
+    {"symbol": "688047.SS", "name": "龙芯中科",   "market": "SH", "note": "持仓-科创板"},
+    {"symbol": "300490.SZ", "name": "华自科技",   "market": "SZ", "note": "持仓-创业板"},
+    {"symbol": "510300.SS", "name": "沪深300ETF", "market": "SH", "note": "持仓-ETF"},
+    {"symbol": "588190.SS", "name": "科创AI ETF", "market": "SH", "note": "持仓-ETF(代码待核对)"},
+    {"symbol": "562500.SS", "name": "机器人50ETF","market": "SH", "note": "持仓-ETF"},
+    {"symbol": "601989.SS", "name": "中国重工",   "market": "SH", "note": "持仓"},
+    {"symbol": "600406.SS", "name": "国电南瑞",   "market": "SH", "note": "持仓"},
+    {"symbol": "603019.SS", "name": "中科曙光",   "market": "SH", "note": "持仓"},
+    {"symbol": "688521.SS", "name": "芯原股份",   "market": "SH", "note": "持仓-科创板"},
+    {"symbol": "002747.SZ", "name": "埃斯顿",     "market": "SZ", "note": "持仓"},
+    {"symbol": "000988.SZ", "name": "华工科技",   "market": "SZ", "note": "持仓"},
+    {"symbol": "002472.SZ", "name": "双环传动",   "market": "SZ", "note": "持仓"}
   ]
 }
