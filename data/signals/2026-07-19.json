@@ -1,53 +1,22 @@
 {
-  "generated_at": "2026-07-19 04:14 UTC",
+  "generated_at": "2026-07-19 05:12 UTC",
   "date": "2026-07-19",
   "total": 17,
-  "live_count": 0,
-  "buy_count": 2,
-  "sell_count": 6,
-  "hold_count": 9,
-  "top_bull": [
-    {
-      "name": "英伟达",
-      "symbol": "NVDA",
-      "score": 2,
-      "rec": "谨慎买入"
-    },
-    {
-      "name": "特斯拉",
-      "symbol": "TSLA",
-      "score": 1,
-      "rec": "谨慎买入"
-    }
-  ],
+  "live_count": 17,
+  "buy_count": 0,
+  "sell_count": 2,
+  "hold_count": 15,
+  "top_bull": [],
   "top_bear": [
     {
-      "name": "苹果",
-      "symbol": "AAPL",
+      "name": "谷歌",
+      "symbol": "GOOGL",
       "score": -2,
       "rec": "谨慎卖出"
     },
     {
-      "name": "贵州茅台",
-      "symbol": "600519.SS",
-      "score": -2,
-      "rec": "谨慎卖出"
-    },
-    {
-      "name": "微软",
-      "symbol": "MSFT",
-      "score": -1,
-      "rec": "谨慎卖出"
-    },
-    {
-      "name": "腾讯控股",
-      "symbol": "0700.HK",
-      "score": -1,
-      "rec": "谨慎卖出"
-    },
-    {
-      "name": "中国平安",
-      "symbol": "601318.SS",
+      "name": "宁德时代",
+      "symbol": "300750.SZ",
       "score": -1,
       "rec": "谨慎卖出"
     }
