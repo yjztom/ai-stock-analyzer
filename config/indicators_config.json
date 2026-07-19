@@ -1,0 +1,10 @@
+{
+  "_comment": "技术指标参数。调这里即可改变所有指标的计算窗口，无需动代码。",
+  "ma": {"short": 5, "mid": 20, "long": 60},
+  "macd": {"fast": 12, "slow": 26, "signal": 9},
+  "rsi": {"period": 14, "overbought": 70, "oversold": 30},
+  "boll": {"period": 20, "std_k": 2.0},
+  "kdj": {"period": 9, "k_smooth": 3, "d_smooth": 3, "overbought": 80, "oversold": 20},
+  "volume": {"ma_period": 20, "spike_ratio": 1.5},
+  "fetch": {"range": "6mo", "interval": "1d", "timeout_sec": 12}
+}

@@ -1,0 +1,9 @@
+# 本项目核心分析链路「零第三方依赖」，仅用 Python 标准库即可运行，
+# 因此 GitHub Actions 上无需 pip install 也能跑（更稳、更省时间）。
+#
+# 下面是「可选增强」：如果你想改用 yfinance / AkShare 作为数据源，
+# 取消注释后 CI 会自动安装。默认注释掉，保持零依赖与离线可用。
+#
+# yfinance>=0.2.40      # 备用美股/港股数据源
+# akshare>=1.14.0       # 备用 A 股数据源（接口变动较频繁，注意版本）
+# pandas>=2.0.0         # yfinance/akshare 的依赖
