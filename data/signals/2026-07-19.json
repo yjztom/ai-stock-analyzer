@@ -1,12 +1,43 @@
 {
-  "generated_at": "2026-07-19 05:12 UTC",
+  "generated_at": "2026-07-19 05:36 UTC",
   "date": "2026-07-19",
-  "total": 17,
-  "live_count": 17,
-  "buy_count": 0,
-  "sell_count": 2,
-  "hold_count": 15,
-  "top_bull": [],
+  "total": 34,
+  "live_count": 33,
+  "buy_count": 8,
+  "sell_count": 6,
+  "hold_count": 20,
+  "top_bull": [
+    {
+      "name": "中科曙光",
+      "symbol": "603019.SS",
+      "score": 2,
+      "rec": "谨慎买入"
+    },
+    {
+      "name": "科创50ETF",
+      "symbol": "588000.SS",
+      "score": 1,
+      "rec": "谨慎买入"
+    },
+    {
+      "name": "龙芯中科",
+      "symbol": "688047.SS",
+      "score": 1,
+      "rec": "谨慎买入"
+    },
+    {
+      "name": "科创AI ETF",
+      "symbol": "588190.SS",
+      "score": 1,
+      "rec": "谨慎买入"
+    },
+    {
+      "name": "机器人50ETF",
+      "symbol": "562500.SS",
+      "score": 1,
+      "rec": "谨慎买入"
+    }
+  ],
   "top_bear": [
     {
       "name": "谷歌",
@@ -17,6 +48,24 @@
     {
       "name": "宁德时代",
       "symbol": "300750.SZ",
+      "score": -1,
+      "rec": "谨慎卖出"
+    },
+    {
+      "name": "西藏天路",
+      "symbol": "600326.SS",
+      "score": -1,
+      "rec": "谨慎卖出"
+    },
+    {
+      "name": "雪迪龙",
+      "symbol": "002658.SZ",
+      "score": -1,
+      "rec": "谨慎卖出"
+    },
+    {
+      "name": "云从科技",
+      "symbol": "688327.SS",
       "score": -1,
       "rec": "谨慎卖出"
     }
