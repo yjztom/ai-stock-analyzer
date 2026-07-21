@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-07-21 10:16 UTC",
+  "generated_at": "2026-07-21 21:59 UTC",
   "date": "2026-07-21",
   "total": 34,
   "live_count": 33,
   "buy_count": 6,
-  "sell_count": 13,
-  "hold_count": 15,
+  "sell_count": 15,
+  "hold_count": 13,
   "top_bull": [
-    {
-      "name": "微软",
-      "symbol": "MSFT",
-      "score": 1,
-      "rec": "谨慎买入"
-    },
     {
       "name": "科创50ETF",
       "symbol": "588000.SS",
+      "score": 2,
+      "rec": "谨慎买入"
+    },
+    {
+      "name": "苹果",
+      "symbol": "AAPL",
       "score": 1,
       "rec": "谨慎买入"
     },
@@ -26,19 +26,31 @@
       "rec": "谨慎买入"
     },
     {
-      "name": "沪深300ETF",
-      "symbol": "510300.SS",
+      "name": "科创AI ETF",
+      "symbol": "588190.SS",
       "score": 1,
       "rec": "谨慎买入"
     },
     {
-      "name": "科创AI ETF",
-      "symbol": "588190.SS",
+      "name": "机器人50ETF",
+      "symbol": "562500.SS",
       "score": 1,
       "rec": "谨慎买入"
     }
   ],
   "top_bear": [
+    {
+      "name": "特斯拉",
+      "symbol": "TSLA",
+      "score": -1,
+      "rec": "谨慎卖出"
+    },
+    {
+      "name": "谷歌",
+      "symbol": "GOOGL",
+      "score": -1,
+      "rec": "谨慎卖出"
+    },
     {
       "name": "贵州茅台",
       "symbol": "600519.SS",
@@ -54,18 +66,6 @@
     {
       "name": "招商银行",
       "symbol": "600036.SS",
-      "score": -1,
-      "rec": "谨慎卖出"
-    },
-    {
-      "name": "平安银行",
-      "symbol": "000001.SZ",
-      "score": -1,
-      "rec": "谨慎卖出"
-    },
-    {
-      "name": "宁德时代",
-      "symbol": "300750.SZ",
       "score": -1,
       "rec": "谨慎卖出"
     }
