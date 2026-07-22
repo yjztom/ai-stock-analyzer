@@ -1,0 +1,55 @@
+{
+  "generated_at": "2026-07-22 10:16 UTC",
+  "date": "2026-07-22",
+  "total": 34,
+  "live_count": 33,
+  "buy_count": 2,
+  "sell_count": 12,
+  "hold_count": 20,
+  "top_bull": [
+    {
+      "name": "苹果",
+      "symbol": "AAPL",
+      "score": 1,
+      "rec": "谨慎买入"
+    },
+    {
+      "name": "中科曙光",
+      "symbol": "603019.SS",
+      "score": 1,
+      "rec": "谨慎买入"
+    }
+  ],
+  "top_bear": [
+    {
+      "name": "特斯拉",
+      "symbol": "TSLA",
+      "score": -1,
+      "rec": "谨慎卖出"
+    },
+    {
+      "name": "谷歌",
+      "symbol": "GOOGL",
+      "score": -1,
+      "rec": "谨慎卖出"
+    },
+    {
+      "name": "腾讯控股",
+      "symbol": "0700.HK",
+      "score": -1,
+      "rec": "谨慎卖出"
+    },
+    {
+      "name": "宁德时代",
+      "symbol": "300750.SZ",
+      "score": -1,
+      "rec": "谨慎卖出"
+    },
+    {
+      "name": "西藏天路",
+      "symbol": "600326.SS",
+      "score": -1,
+      "rec": "谨慎卖出"
+    }
+  ]
+}
