@@ -1,12 +1,18 @@
 {
-  "generated_at": "2026-07-22 10:16 UTC",
+  "generated_at": "2026-07-22 21:59 UTC",
   "date": "2026-07-22",
   "total": 34,
   "live_count": 33,
-  "buy_count": 2,
-  "sell_count": 12,
-  "hold_count": 20,
+  "buy_count": 6,
+  "sell_count": 11,
+  "hold_count": 17,
   "top_bull": [
+    {
+      "name": "科创50ETF",
+      "symbol": "588000.SS",
+      "score": 2,
+      "rec": "谨慎买入"
+    },
     {
       "name": "苹果",
       "symbol": "AAPL",
@@ -14,8 +20,20 @@
       "rec": "谨慎买入"
     },
     {
-      "name": "中科曙光",
-      "symbol": "603019.SS",
+      "name": "英伟达",
+      "symbol": "NVDA",
+      "score": 1,
+      "rec": "谨慎买入"
+    },
+    {
+      "name": "沪深300ETF",
+      "symbol": "510300.SS",
+      "score": 1,
+      "rec": "谨慎买入"
+    },
+    {
+      "name": "科创AI ETF",
+      "symbol": "588190.SS",
       "score": 1,
       "rec": "谨慎买入"
     }
@@ -24,12 +42,6 @@
     {
       "name": "特斯拉",
       "symbol": "TSLA",
-      "score": -1,
-      "rec": "谨慎卖出"
-    },
-    {
-      "name": "谷歌",
-      "symbol": "GOOGL",
       "score": -1,
       "rec": "谨慎卖出"
     },
@@ -48,6 +60,12 @@
     {
       "name": "西藏天路",
       "symbol": "600326.SS",
+      "score": -1,
+      "rec": "谨慎卖出"
+    },
+    {
+      "name": "雪迪龙",
+      "symbol": "002658.SZ",
       "score": -1,
       "rec": "谨慎卖出"
     }
