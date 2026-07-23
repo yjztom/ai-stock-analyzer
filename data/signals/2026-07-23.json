@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-07-23 10:12 UTC",
+  "generated_at": "2026-07-23 21:59 UTC",
   "date": "2026-07-23",
   "total": 34,
   "live_count": 33,
   "buy_count": 5,
-  "sell_count": 10,
-  "hold_count": 19,
+  "sell_count": 9,
+  "hold_count": 20,
   "top_bull": [
     {
-      "name": "苹果",
-      "symbol": "AAPL",
-      "score": 1,
+      "name": "中通快递",
+      "symbol": "ZTO",
+      "score": 2,
       "rec": "谨慎买入"
     },
     {
-      "name": "英伟达",
-      "symbol": "NVDA",
+      "name": "苹果",
+      "symbol": "AAPL",
       "score": 1,
       "rec": "谨慎买入"
     },
@@ -40,8 +40,8 @@
   ],
   "top_bear": [
     {
-      "name": "特斯拉",
-      "symbol": "TSLA",
+      "name": "亚马逊",
+      "symbol": "AMZN",
       "score": -1,
       "rec": "谨慎卖出"
     },
