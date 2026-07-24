@@ -1,0 +1,73 @@
+{
+  "generated_at": "2026-07-24 10:08 UTC",
+  "date": "2026-07-24",
+  "total": 34,
+  "live_count": 33,
+  "buy_count": 6,
+  "sell_count": 6,
+  "hold_count": 22,
+  "top_bull": [
+    {
+      "name": "中通快递",
+      "symbol": "ZTO",
+      "score": 2,
+      "rec": "谨慎买入"
+    },
+    {
+      "name": "苹果",
+      "symbol": "AAPL",
+      "score": 1,
+      "rec": "谨慎买入"
+    },
+    {
+      "name": "腾讯控股",
+      "symbol": "0700.HK",
+      "score": 1,
+      "rec": "谨慎买入"
+    },
+    {
+      "name": "雪迪龙",
+      "symbol": "002658.SZ",
+      "score": 1,
+      "rec": "谨慎买入"
+    },
+    {
+      "name": "华自科技",
+      "symbol": "300490.SZ",
+      "score": 1,
+      "rec": "谨慎买入"
+    }
+  ],
+  "top_bear": [
+    {
+      "name": "亚马逊",
+      "symbol": "AMZN",
+      "score": -1,
+      "rec": "谨慎卖出"
+    },
+    {
+      "name": "西藏天路",
+      "symbol": "600326.SS",
+      "score": -1,
+      "rec": "谨慎卖出"
+    },
+    {
+      "name": "沪深300ETF",
+      "symbol": "510300.SS",
+      "score": -1,
+      "rec": "谨慎卖出"
+    },
+    {
+      "name": "机器人50ETF",
+      "symbol": "562500.SS",
+      "score": -1,
+      "rec": "谨慎卖出"
+    },
+    {
+      "name": "华工科技",
+      "symbol": "000988.SZ",
+      "score": -1,
+      "rec": "谨慎卖出"
+    }
+  ]
+}
