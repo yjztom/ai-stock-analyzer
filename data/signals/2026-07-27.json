@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-27 11:11 UTC",
+  "generated_at": "2026-07-27 21:59 UTC",
   "date": "2026-07-27",
   "total": 34,
   "live_count": 33,
-  "buy_count": 6,
-  "sell_count": 10,
-  "hold_count": 18,
+  "buy_count": 8,
+  "sell_count": 11,
+  "hold_count": 15,
   "top_bull": [
     {
       "name": "腾讯控股",
@@ -20,20 +20,20 @@
       "rec": "谨慎买入"
     },
     {
-      "name": "中通快递",
-      "symbol": "ZTO",
-      "score": 2,
-      "rec": "谨慎买入"
-    },
-    {
       "name": "苹果",
       "symbol": "AAPL",
       "score": 1,
       "rec": "谨慎买入"
     },
     {
-      "name": "小米集团",
-      "symbol": "1810.HK",
+      "name": "特斯拉",
+      "symbol": "TSLA",
+      "score": 1,
+      "rec": "谨慎买入"
+    },
+    {
+      "name": "亚马逊",
+      "symbol": "AMZN",
       "score": 1,
       "rec": "谨慎买入"
     }
@@ -52,8 +52,8 @@
       "rec": "谨慎卖出"
     },
     {
-      "name": "亚马逊",
-      "symbol": "AMZN",
+      "name": "谷歌",
+      "symbol": "GOOGL",
       "score": -1,
       "rec": "谨慎卖出"
     },
