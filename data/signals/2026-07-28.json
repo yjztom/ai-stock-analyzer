@@ -1,16 +1,22 @@
 {
-  "generated_at": "2026-07-28 10:25 UTC",
+  "generated_at": "2026-07-28 21:56 UTC",
   "date": "2026-07-28",
   "total": 34,
   "live_count": 33,
   "buy_count": 4,
-  "sell_count": 11,
-  "hold_count": 19,
+  "sell_count": 9,
+  "hold_count": 21,
   "top_bull": [
+    {
+      "name": "中通快递",
+      "symbol": "ZTO",
+      "score": 2,
+      "rec": "谨慎买入"
+    },
     {
       "name": "苹果",
       "symbol": "AAPL",
-      "score": 2,
+      "score": 1,
       "rec": "谨慎买入"
     },
     {
@@ -24,21 +30,9 @@
       "symbol": "600036.SS",
       "score": 1,
       "rec": "谨慎买入"
-    },
-    {
-      "name": "中通快递",
-      "symbol": "ZTO",
-      "score": 1,
-      "rec": "谨慎买入"
     }
   ],
   "top_bear": [
-    {
-      "name": "英伟达",
-      "symbol": "NVDA",
-      "score": -2,
-      "rec": "谨慎卖出"
-    },
     {
       "name": "芯原股份",
       "symbol": "688521.SS",
@@ -46,8 +40,8 @@
       "rec": "谨慎卖出"
     },
     {
-      "name": "谷歌",
-      "symbol": "GOOGL",
+      "name": "微软",
+      "symbol": "MSFT",
       "score": -1,
       "rec": "谨慎卖出"
     },
@@ -60,6 +54,12 @@
     {
       "name": "雪迪龙",
       "symbol": "002658.SZ",
+      "score": -1,
+      "rec": "谨慎卖出"
+    },
+    {
+      "name": "云从科技",
+      "symbol": "688327.SS",
       "score": -1,
       "rec": "谨慎卖出"
     }
