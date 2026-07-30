@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30 10:14 UTC",
+  "generated_at": "2026-07-30 22:08 UTC",
   "date": "2026-07-30",
   "total": 34,
   "live_count": 33,
-  "buy_count": 8,
+  "buy_count": 5,
   "sell_count": 10,
-  "hold_count": 16,
+  "hold_count": 19,
   "top_bull": [
     {
       "name": "腾讯控股",
@@ -26,22 +26,28 @@
       "rec": "谨慎买入"
     },
     {
-      "name": "英伟达",
-      "symbol": "NVDA",
+      "name": "美团",
+      "symbol": "3690.HK",
       "score": 1,
       "rec": "谨慎买入"
     },
     {
-      "name": "特斯拉",
-      "symbol": "TSLA",
+      "name": "比亚迪",
+      "symbol": "002594.SZ",
       "score": 1,
       "rec": "谨慎买入"
     }
   ],
   "top_bear": [
     {
-      "name": "微软",
-      "symbol": "MSFT",
+      "name": "科创AI ETF",
+      "symbol": "588190.SS",
+      "score": -2,
+      "rec": "谨慎卖出"
+    },
+    {
+      "name": "特斯拉",
+      "symbol": "TSLA",
       "score": -1,
       "rec": "谨慎卖出"
     },
@@ -60,12 +66,6 @@
     {
       "name": "平安银行",
       "symbol": "000001.SZ",
-      "score": -1,
-      "rec": "谨慎卖出"
-    },
-    {
-      "name": "雪迪龙",
-      "symbol": "002658.SZ",
       "score": -1,
       "rec": "谨慎卖出"
     }
