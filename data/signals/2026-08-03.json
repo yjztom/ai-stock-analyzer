@@ -1,34 +1,34 @@
 {
-  "generated_at": "2026-08-03 11:13 UTC",
+  "generated_at": "2026-08-03 22:01 UTC",
   "date": "2026-08-03",
   "total": 34,
   "live_count": 33,
-  "buy_count": 9,
+  "buy_count": 10,
   "sell_count": 13,
-  "hold_count": 12,
+  "hold_count": 11,
   "top_bull": [
     {
-      "name": "谷歌",
-      "symbol": "GOOGL",
+      "name": "苹果",
+      "symbol": "AAPL",
       "score": 2,
       "rec": "谨慎买入"
     },
     {
-      "name": "亚马逊",
-      "symbol": "AMZN",
+      "name": "比亚迪",
+      "symbol": "002594.SZ",
       "score": 2,
       "rec": "谨慎买入"
     },
     {
-      "name": "贵州茅台",
-      "symbol": "600519.SS",
+      "name": "云从科技",
+      "symbol": "688327.SS",
       "score": 2,
       "rec": "谨慎买入"
     },
     {
-      "name": "中通快递",
-      "symbol": "ZTO",
-      "score": 2,
+      "name": "阿里巴巴",
+      "symbol": "9988.HK",
+      "score": 1,
       "rec": "谨慎买入"
     },
     {
@@ -40,15 +40,15 @@
   ],
   "top_bear": [
     {
-      "name": "苹果",
-      "symbol": "AAPL",
+      "name": "谷歌",
+      "symbol": "GOOGL",
       "score": -2,
       "rec": "谨慎卖出"
     },
     {
-      "name": "英伟达",
-      "symbol": "NVDA",
-      "score": -1,
+      "name": "华自科技",
+      "symbol": "300490.SZ",
+      "score": -2,
       "rec": "谨慎卖出"
     },
     {
@@ -58,14 +58,14 @@
       "rec": "谨慎卖出"
     },
     {
-      "name": "平安银行",
-      "symbol": "000001.SZ",
+      "name": "特斯拉",
+      "symbol": "TSLA",
       "score": -1,
       "rec": "谨慎卖出"
     },
     {
-      "name": "云从科技",
-      "symbol": "688327.SS",
+      "name": "亚马逊",
+      "symbol": "AMZN",
       "score": -1,
       "rec": "谨慎卖出"
     }
