@@ -1,28 +1,16 @@
 {
-  "generated_at": "2026-08-05 10:26 UTC",
+  "generated_at": "2026-08-05 22:07 UTC",
   "date": "2026-08-05",
   "total": 34,
   "live_count": 33,
-  "buy_count": 11,
-  "sell_count": 12,
+  "buy_count": 9,
+  "sell_count": 14,
   "hold_count": 11,
   "top_bull": [
     {
       "name": "中国平安",
       "symbol": "601318.SS",
       "score": 2,
-      "rec": "谨慎买入"
-    },
-    {
-      "name": "苹果",
-      "symbol": "AAPL",
-      "score": 1,
-      "rec": "谨慎买入"
-    },
-    {
-      "name": "英伟达",
-      "symbol": "NVDA",
-      "score": 1,
       "rec": "谨慎买入"
     },
     {
@@ -36,9 +24,33 @@
       "symbol": "3690.HK",
       "score": 1,
       "rec": "谨慎买入"
+    },
+    {
+      "name": "小米集团",
+      "symbol": "1810.HK",
+      "score": 1,
+      "rec": "谨慎买入"
+    },
+    {
+      "name": "贵州茅台",
+      "symbol": "600519.SS",
+      "score": 1,
+      "rec": "谨慎买入"
     }
   ],
   "top_bear": [
+    {
+      "name": "英伟达",
+      "symbol": "NVDA",
+      "score": -2,
+      "rec": "谨慎卖出"
+    },
+    {
+      "name": "科创50ETF",
+      "symbol": "588000.SS",
+      "score": -2,
+      "rec": "谨慎卖出"
+    },
     {
       "name": "华工科技",
       "symbol": "000988.SZ",
@@ -52,20 +64,8 @@
       "rec": "谨慎卖出"
     },
     {
-      "name": "特斯拉",
-      "symbol": "TSLA",
-      "score": -1,
-      "rec": "谨慎卖出"
-    },
-    {
-      "name": "谷歌",
-      "symbol": "GOOGL",
-      "score": -1,
-      "rec": "谨慎卖出"
-    },
-    {
-      "name": "亚马逊",
-      "symbol": "AMZN",
+      "name": "微软",
+      "symbol": "MSFT",
       "score": -1,
       "rec": "谨慎卖出"
     }
