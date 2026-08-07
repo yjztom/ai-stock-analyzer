@@ -1,12 +1,18 @@
 {
-  "generated_at": "2026-08-07 00:59 UTC",
+  "generated_at": "2026-08-07 08:47 UTC",
   "date": "2026-08-07",
   "total": 34,
   "live_count": 33,
-  "buy_count": 11,
-  "sell_count": 10,
-  "hold_count": 13,
+  "buy_count": 9,
+  "sell_count": 13,
+  "hold_count": 12,
   "top_bull": [
+    {
+      "name": "招商银行",
+      "symbol": "600036.SS",
+      "score": 2,
+      "rec": "谨慎买入"
+    },
     {
       "name": "腾讯控股",
       "symbol": "0700.HK",
@@ -26,19 +32,19 @@
       "rec": "谨慎买入"
     },
     {
-      "name": "贵州茅台",
-      "symbol": "600519.SS",
-      "score": 1,
-      "rec": "谨慎买入"
-    },
-    {
-      "name": "中国平安",
-      "symbol": "601318.SS",
+      "name": "小米集团",
+      "symbol": "1810.HK",
       "score": 1,
       "rec": "谨慎买入"
     }
   ],
   "top_bear": [
+    {
+      "name": "埃斯顿",
+      "symbol": "002747.SZ",
+      "score": -3,
+      "rec": "卖出"
+    },
     {
       "name": "龙芯中科",
       "symbol": "688047.SS",
@@ -46,27 +52,21 @@
       "rec": "谨慎卖出"
     },
     {
-      "name": "机器人50ETF",
-      "symbol": "562500.SS",
+      "name": "沪深300ETF",
+      "symbol": "510300.SS",
       "score": -2,
       "rec": "谨慎卖出"
     },
     {
-      "name": "英伟达",
-      "symbol": "NVDA",
-      "score": -1,
+      "name": "科创AI ETF",
+      "symbol": "588190.SS",
+      "score": -2,
       "rec": "谨慎卖出"
     },
     {
-      "name": "微软",
-      "symbol": "MSFT",
-      "score": -1,
-      "rec": "谨慎卖出"
-    },
-    {
-      "name": "特斯拉",
-      "symbol": "TSLA",
-      "score": -1,
+      "name": "芯原股份",
+      "symbol": "688521.SS",
+      "score": -2,
       "rec": "谨慎卖出"
     }
   ]
