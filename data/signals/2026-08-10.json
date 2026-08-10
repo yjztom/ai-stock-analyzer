@@ -1,23 +1,17 @@
 {
-  "generated_at": "2026-08-10 09:08 UTC",
+  "generated_at": "2026-08-10 21:34 UTC",
   "date": "2026-08-10",
   "total": 34,
   "live_count": 33,
   "buy_count": 7,
-  "sell_count": 11,
-  "hold_count": 16,
+  "sell_count": 12,
+  "hold_count": 15,
   "top_bull": [
     {
       "name": "贵州茅台",
       "symbol": "600519.SS",
       "score": 3,
       "rec": "买入"
-    },
-    {
-      "name": "亚马逊",
-      "symbol": "AMZN",
-      "score": 2,
-      "rec": "谨慎买入"
     },
     {
       "name": "中国平安",
@@ -32,6 +26,12 @@
       "rec": "谨慎买入"
     },
     {
+      "name": "亚马逊",
+      "symbol": "AMZN",
+      "score": 1,
+      "rec": "谨慎买入"
+    },
+    {
       "name": "腾讯控股",
       "symbol": "0700.HK",
       "score": 1,
@@ -40,8 +40,8 @@
   ],
   "top_bear": [
     {
-      "name": "英伟达",
-      "symbol": "NVDA",
+      "name": "特斯拉",
+      "symbol": "TSLA",
       "score": -2,
       "rec": "谨慎卖出"
     },
@@ -52,21 +52,21 @@
       "rec": "谨慎卖出"
     },
     {
-      "name": "中科曙光",
-      "symbol": "603019.SS",
+      "name": "沪深300ETF",
+      "symbol": "510300.SS",
       "score": -2,
       "rec": "谨慎卖出"
     },
     {
-      "name": "微软",
-      "symbol": "MSFT",
-      "score": -1,
+      "name": "科创AI ETF",
+      "symbol": "588190.SS",
+      "score": -2,
       "rec": "谨慎卖出"
     },
     {
-      "name": "平安银行",
-      "symbol": "000001.SZ",
-      "score": -1,
+      "name": "中科曙光",
+      "symbol": "603019.SS",
+      "score": -2,
       "rec": "谨慎卖出"
     }
   ]
