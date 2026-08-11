@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11 08:44 UTC",
+  "generated_at": "2026-08-11 21:38 UTC",
   "date": "2026-08-11",
   "total": 34,
   "live_count": 33,
-  "buy_count": 7,
-  "sell_count": 14,
-  "hold_count": 13,
+  "buy_count": 8,
+  "sell_count": 12,
+  "hold_count": 14,
   "top_bull": [
     {
       "name": "贵州茅台",
@@ -46,18 +46,6 @@
       "rec": "谨慎卖出"
     },
     {
-      "name": "科创50ETF",
-      "symbol": "588000.SS",
-      "score": -2,
-      "rec": "谨慎卖出"
-    },
-    {
-      "name": "微软",
-      "symbol": "MSFT",
-      "score": -1,
-      "rec": "谨慎卖出"
-    },
-    {
       "name": "美团",
       "symbol": "3690.HK",
       "score": -1,
@@ -66,6 +54,18 @@
     {
       "name": "五粮液",
       "symbol": "000858.SZ",
+      "score": -1,
+      "rec": "谨慎卖出"
+    },
+    {
+      "name": "西藏天路",
+      "symbol": "600326.SS",
+      "score": -1,
+      "rec": "谨慎卖出"
+    },
+    {
+      "name": "龙芯中科",
+      "symbol": "688047.SS",
       "score": -1,
       "rec": "谨慎卖出"
     }
