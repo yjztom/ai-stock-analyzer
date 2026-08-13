@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-13 09:03 UTC",
+  "generated_at": "2026-08-13 21:37 UTC",
   "date": "2026-08-13",
   "total": 34,
   "live_count": 33,
   "buy_count": 10,
-  "sell_count": 7,
-  "hold_count": 17,
+  "sell_count": 6,
+  "hold_count": 18,
   "top_bull": [
     {
-      "name": "英伟达",
-      "symbol": "NVDA",
+      "name": "谷歌",
+      "symbol": "GOOGL",
       "score": 1,
       "rec": "谨慎买入"
     },
@@ -40,12 +40,6 @@
   ],
   "top_bear": [
     {
-      "name": "微软",
-      "symbol": "MSFT",
-      "score": -1,
-      "rec": "谨慎卖出"
-    },
-    {
       "name": "特斯拉",
       "symbol": "TSLA",
       "score": -1,
@@ -66,6 +60,12 @@
     {
       "name": "雪迪龙",
       "symbol": "002658.SZ",
+      "score": -1,
+      "rec": "谨慎卖出"
+    },
+    {
+      "name": "科创AI ETF",
+      "symbol": "588190.SS",
       "score": -1,
       "rec": "谨慎卖出"
     }
