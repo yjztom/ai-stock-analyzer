@@ -1,71 +1,65 @@
 {
-  "generated_at": "2026-08-21 08:28 UTC",
+  "generated_at": "2026-08-21 21:16 UTC",
   "date": "2026-08-21",
   "total": 34,
   "live_count": 33,
-  "buy_count": 11,
-  "sell_count": 5,
-  "hold_count": 18,
+  "buy_count": 6,
+  "sell_count": 4,
+  "hold_count": 24,
   "top_bull": [
     {
-      "name": "英伟达",
-      "symbol": "NVDA",
+      "name": "阿里巴巴",
+      "symbol": "9988.HK",
+      "score": 2,
+      "rec": "谨慎买入"
+    },
+    {
+      "name": "西藏天路",
+      "symbol": "600326.SS",
       "score": 2,
       "rec": "谨慎买入"
     },
     {
       "name": "微软",
       "symbol": "MSFT",
-      "score": 2,
-      "rec": "谨慎买入"
-    },
-    {
-      "name": "亚马逊",
-      "symbol": "AMZN",
       "score": 1,
       "rec": "谨慎买入"
     },
     {
-      "name": "腾讯控股",
-      "symbol": "0700.HK",
+      "name": "比亚迪",
+      "symbol": "002594.SZ",
       "score": 1,
       "rec": "谨慎买入"
     },
     {
-      "name": "小米集团",
-      "symbol": "1810.HK",
+      "name": "中通快递",
+      "symbol": "ZTO",
       "score": 1,
       "rec": "谨慎买入"
     }
   ],
   "top_bear": [
     {
-      "name": "芯原股份",
-      "symbol": "688521.SS",
-      "score": -2,
-      "rec": "谨慎卖出"
-    },
-    {
-      "name": "谷歌",
-      "symbol": "GOOGL",
-      "score": -1,
-      "rec": "谨慎卖出"
-    },
-    {
-      "name": "平安银行",
-      "symbol": "000001.SZ",
-      "score": -1,
-      "rec": "谨慎卖出"
-    },
-    {
-      "name": "华自科技",
-      "symbol": "300490.SZ",
-      "score": -1,
-      "rec": "谨慎卖出"
+      "name": "中科曙光",
+      "symbol": "603019.SS",
+      "score": -3,
+      "rec": "卖出"
     },
     {
       "name": "双环传动",
       "symbol": "002472.SZ",
+      "score": -3,
+      "rec": "卖出"
+    },
+    {
+      "name": "云从科技",
+      "symbol": "688327.SS",
+      "score": -2,
+      "rec": "谨慎卖出"
+    },
+    {
+      "name": "机器人50ETF",
+      "symbol": "562500.SS",
       "score": -1,
       "rec": "谨慎卖出"
     }
