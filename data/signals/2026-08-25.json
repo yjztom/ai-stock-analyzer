@@ -1,71 +1,71 @@
 {
-  "generated_at": "2026-08-25 08:31 UTC",
+  "generated_at": "2026-08-25 21:20 UTC",
   "date": "2026-08-25",
   "total": 34,
   "live_count": 33,
-  "buy_count": 6,
-  "sell_count": 10,
-  "hold_count": 18,
+  "buy_count": 12,
+  "sell_count": 5,
+  "hold_count": 17,
   "top_bull": [
-    {
-      "name": "英伟达",
-      "symbol": "NVDA",
-      "score": 2,
-      "rec": "谨慎买入"
-    },
-    {
-      "name": "招商银行",
-      "symbol": "600036.SS",
-      "score": 2,
-      "rec": "谨慎买入"
-    },
     {
       "name": "微软",
       "symbol": "MSFT",
+      "score": 2,
+      "rec": "谨慎买入"
+    },
+    {
+      "name": "中国平安",
+      "symbol": "601318.SS",
+      "score": 2,
+      "rec": "谨慎买入"
+    },
+    {
+      "name": "平安银行",
+      "symbol": "000001.SZ",
+      "score": 2,
+      "rec": "谨慎买入"
+    },
+    {
+      "name": "苹果",
+      "symbol": "AAPL",
       "score": 1,
       "rec": "谨慎买入"
     },
     {
-      "name": "小米集团",
-      "symbol": "1810.HK",
-      "score": 1,
-      "rec": "谨慎买入"
-    },
-    {
-      "name": "宁德时代",
-      "symbol": "300750.SZ",
+      "name": "亚马逊",
+      "symbol": "AMZN",
       "score": 1,
       "rec": "谨慎买入"
     }
   ],
   "top_bear": [
     {
-      "name": "科创50ETF",
-      "symbol": "588000.SS",
-      "score": -2,
-      "rec": "谨慎卖出"
-    },
-    {
-      "name": "雪迪龙",
-      "symbol": "002658.SZ",
-      "score": -2,
-      "rec": "谨慎卖出"
-    },
-    {
-      "name": "沪深300ETF",
-      "symbol": "510300.SS",
-      "score": -2,
-      "rec": "谨慎卖出"
-    },
-    {
-      "name": "机器人50ETF",
-      "symbol": "562500.SS",
-      "score": -2,
-      "rec": "谨慎卖出"
-    },
-    {
       "name": "谷歌",
       "symbol": "GOOGL",
+      "score": -1,
+      "rec": "谨慎卖出"
+    },
+    {
+      "name": "招商银行",
+      "symbol": "600036.SS",
+      "score": -1,
+      "rec": "谨慎卖出"
+    },
+    {
+      "name": "五粮液",
+      "symbol": "000858.SZ",
+      "score": -1,
+      "rec": "谨慎卖出"
+    },
+    {
+      "name": "华自科技",
+      "symbol": "300490.SZ",
+      "score": -1,
+      "rec": "谨慎卖出"
+    },
+    {
+      "name": "埃斯顿",
+      "symbol": "002747.SZ",
       "score": -1,
       "rec": "谨慎卖出"
     }
