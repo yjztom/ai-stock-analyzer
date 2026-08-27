@@ -1,22 +1,28 @@
 {
-  "generated_at": "2026-08-27 00:22 UTC",
+  "generated_at": "2026-08-27 18:38 UTC",
   "date": "2026-08-27",
   "total": 34,
   "live_count": 33,
-  "buy_count": 7,
+  "buy_count": 8,
   "sell_count": 8,
-  "hold_count": 19,
+  "hold_count": 18,
   "top_bull": [
     {
-      "name": "苹果",
-      "symbol": "AAPL",
-      "score": 3,
-      "rec": "买入"
+      "name": "英伟达",
+      "symbol": "NVDA",
+      "score": 2,
+      "rec": "谨慎买入"
     },
     {
       "name": "比亚迪",
       "symbol": "002594.SZ",
       "score": 2,
+      "rec": "谨慎买入"
+    },
+    {
+      "name": "微软",
+      "symbol": "MSFT",
+      "score": 1,
       "rec": "谨慎买入"
     },
     {
@@ -30,15 +36,15 @@
       "symbol": "3690.HK",
       "score": 1,
       "rec": "谨慎买入"
-    },
-    {
-      "name": "小米集团",
-      "symbol": "1810.HK",
-      "score": 1,
-      "rec": "谨慎买入"
     }
   ],
   "top_bear": [
+    {
+      "name": "苹果",
+      "symbol": "AAPL",
+      "score": -1,
+      "rec": "谨慎卖出"
+    },
     {
       "name": "谷歌",
       "symbol": "GOOGL",
@@ -48,12 +54,6 @@
     {
       "name": "雪迪龙",
       "symbol": "002658.SZ",
-      "score": -1,
-      "rec": "谨慎卖出"
-    },
-    {
-      "name": "中通快递",
-      "symbol": "ZTO",
       "score": -1,
       "rec": "谨慎卖出"
     },
