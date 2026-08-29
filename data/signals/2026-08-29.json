@@ -1,0 +1,73 @@
+{
+  "generated_at": "2026-08-29 02:58 UTC",
+  "date": "2026-08-29",
+  "total": 34,
+  "live_count": 33,
+  "buy_count": 10,
+  "sell_count": 10,
+  "hold_count": 14,
+  "top_bull": [
+    {
+      "name": "西藏天路",
+      "symbol": "600326.SS",
+      "score": 2,
+      "rec": "谨慎买入"
+    },
+    {
+      "name": "苹果",
+      "symbol": "AAPL",
+      "score": 1,
+      "rec": "谨慎买入"
+    },
+    {
+      "name": "亚马逊",
+      "symbol": "AMZN",
+      "score": 1,
+      "rec": "谨慎买入"
+    },
+    {
+      "name": "美团",
+      "symbol": "3690.HK",
+      "score": 1,
+      "rec": "谨慎买入"
+    },
+    {
+      "name": "小米集团",
+      "symbol": "1810.HK",
+      "score": 1,
+      "rec": "谨慎买入"
+    }
+  ],
+  "top_bear": [
+    {
+      "name": "微软",
+      "symbol": "MSFT",
+      "score": -2,
+      "rec": "谨慎卖出"
+    },
+    {
+      "name": "英伟达",
+      "symbol": "NVDA",
+      "score": -1,
+      "rec": "谨慎卖出"
+    },
+    {
+      "name": "五粮液",
+      "symbol": "000858.SZ",
+      "score": -1,
+      "rec": "谨慎卖出"
+    },
+    {
+      "name": "科创50ETF",
+      "symbol": "588000.SS",
+      "score": -1,
+      "rec": "谨慎卖出"
+    },
+    {
+      "name": "雪迪龙",
+      "symbol": "002658.SZ",
+      "score": -1,
+      "rec": "谨慎卖出"
+    }
+  ]
+}
