@@ -1,18 +1,12 @@
 {
-  "generated_at": "2026-09-04 12:23 UTC",
+  "generated_at": "2026-09-04 22:41 UTC",
   "date": "2026-09-04",
   "total": 34,
   "live_count": 33,
-  "buy_count": 15,
-  "sell_count": 13,
-  "hold_count": 6,
+  "buy_count": 12,
+  "sell_count": 15,
+  "hold_count": 7,
   "top_bull": [
-    {
-      "name": "英伟达",
-      "symbol": "NVDA",
-      "score": 3,
-      "rec": "买入"
-    },
     {
       "name": "小米集团",
       "symbol": "1810.HK",
@@ -26,30 +20,36 @@
       "rec": "买入"
     },
     {
-      "name": "微软",
-      "symbol": "MSFT",
+      "name": "双环传动",
+      "symbol": "002472.SZ",
       "score": 2,
       "rec": "谨慎买入"
     },
     {
-      "name": "双环传动",
-      "symbol": "002472.SZ",
-      "score": 2,
+      "name": "苹果",
+      "symbol": "AAPL",
+      "score": 1,
+      "rec": "谨慎买入"
+    },
+    {
+      "name": "英伟达",
+      "symbol": "NVDA",
+      "score": 1,
       "rec": "谨慎买入"
     }
   ],
   "top_bear": [
     {
-      "name": "科创50ETF",
-      "symbol": "588000.SS",
-      "score": -3,
-      "rec": "卖出"
+      "name": "特斯拉",
+      "symbol": "TSLA",
+      "score": -1,
+      "rec": "谨慎卖出"
     },
     {
-      "name": "机器人50ETF",
-      "symbol": "562500.SS",
-      "score": -3,
-      "rec": "卖出"
+      "name": "谷歌",
+      "symbol": "GOOGL",
+      "score": -1,
+      "rec": "谨慎卖出"
     },
     {
       "name": "腾讯控股",
