@@ -1,0 +1,73 @@
+{
+  "generated_at": "2026-09-15 13:00 UTC",
+  "date": "2026-09-15",
+  "total": 34,
+  "live_count": 33,
+  "buy_count": 12,
+  "sell_count": 11,
+  "hold_count": 11,
+  "top_bull": [
+    {
+      "name": "微软",
+      "symbol": "MSFT",
+      "score": 2,
+      "rec": "谨慎买入"
+    },
+    {
+      "name": "谷歌",
+      "symbol": "GOOGL",
+      "score": 2,
+      "rec": "谨慎买入"
+    },
+    {
+      "name": "西藏天路",
+      "symbol": "600326.SS",
+      "score": 2,
+      "rec": "谨慎买入"
+    },
+    {
+      "name": "中通快递",
+      "symbol": "ZTO",
+      "score": 2,
+      "rec": "谨慎买入"
+    },
+    {
+      "name": "苹果",
+      "symbol": "AAPL",
+      "score": 1,
+      "rec": "谨慎买入"
+    }
+  ],
+  "top_bear": [
+    {
+      "name": "腾讯控股",
+      "symbol": "0700.HK",
+      "score": -1,
+      "rec": "谨慎卖出"
+    },
+    {
+      "name": "美团",
+      "symbol": "3690.HK",
+      "score": -1,
+      "rec": "谨慎卖出"
+    },
+    {
+      "name": "宁德时代",
+      "symbol": "300750.SZ",
+      "score": -1,
+      "rec": "谨慎卖出"
+    },
+    {
+      "name": "比亚迪",
+      "symbol": "002594.SZ",
+      "score": -1,
+      "rec": "谨慎卖出"
+    },
+    {
+      "name": "科创50ETF",
+      "symbol": "588000.SS",
+      "score": -1,
+      "rec": "谨慎卖出"
+    }
+  ]
+}
