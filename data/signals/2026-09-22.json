@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-22 12:57 UTC",
+  "generated_at": "2026-09-22 23:24 UTC",
   "date": "2026-09-22",
   "total": 34,
   "live_count": 33,
   "buy_count": 8,
-  "sell_count": 13,
-  "hold_count": 13,
+  "sell_count": 11,
+  "hold_count": 15,
   "top_bull": [
     {
       "name": "腾讯控股",
@@ -14,20 +14,20 @@
       "rec": "买入"
     },
     {
+      "name": "英伟达",
+      "symbol": "NVDA",
+      "score": 2,
+      "rec": "谨慎买入"
+    },
+    {
       "name": "小米集团",
       "symbol": "1810.HK",
       "score": 2,
       "rec": "谨慎买入"
     },
     {
-      "name": "微软",
-      "symbol": "MSFT",
-      "score": 1,
-      "rec": "谨慎买入"
-    },
-    {
-      "name": "特斯拉",
-      "symbol": "TSLA",
+      "name": "苹果",
+      "symbol": "AAPL",
       "score": 1,
       "rec": "谨慎买入"
     },
@@ -39,18 +39,6 @@
     }
   ],
   "top_bear": [
-    {
-      "name": "中通快递",
-      "symbol": "ZTO",
-      "score": -2,
-      "rec": "谨慎卖出"
-    },
-    {
-      "name": "谷歌",
-      "symbol": "GOOGL",
-      "score": -1,
-      "rec": "谨慎卖出"
-    },
     {
       "name": "美团",
       "symbol": "3690.HK",
@@ -66,6 +54,18 @@
     {
       "name": "科创50ETF",
       "symbol": "588000.SS",
+      "score": -1,
+      "rec": "谨慎卖出"
+    },
+    {
+      "name": "云从科技",
+      "symbol": "688327.SS",
+      "score": -1,
+      "rec": "谨慎卖出"
+    },
+    {
+      "name": "华自科技",
+      "symbol": "300490.SZ",
       "score": -1,
       "rec": "谨慎卖出"
     }
