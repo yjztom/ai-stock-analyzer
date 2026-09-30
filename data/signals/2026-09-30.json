@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-30 00:01 UTC",
+  "generated_at": "2026-09-30 14:26 UTC",
   "date": "2026-09-30",
   "total": 34,
   "live_count": 33,
-  "buy_count": 4,
-  "sell_count": 13,
-  "hold_count": 17,
+  "buy_count": 11,
+  "sell_count": 11,
+  "hold_count": 12,
   "top_bull": [
     {
-      "name": "华自科技",
-      "symbol": "300490.SZ",
+      "name": "微软",
+      "symbol": "MSFT",
       "score": 2,
       "rec": "谨慎买入"
     },
@@ -26,30 +26,24 @@
       "rec": "谨慎买入"
     },
     {
-      "name": "微软",
-      "symbol": "MSFT",
+      "name": "特斯拉",
+      "symbol": "TSLA",
+      "score": 1,
+      "rec": "谨慎买入"
+    },
+    {
+      "name": "中国平安",
+      "symbol": "601318.SS",
       "score": 1,
       "rec": "谨慎买入"
     }
   ],
   "top_bear": [
     {
-      "name": "比亚迪",
-      "symbol": "002594.SZ",
-      "score": -2,
-      "rec": "谨慎卖出"
-    },
-    {
-      "name": "中科曙光",
-      "symbol": "603019.SS",
-      "score": -2,
-      "rec": "谨慎卖出"
-    },
-    {
-      "name": "特斯拉",
-      "symbol": "TSLA",
-      "score": -1,
-      "rec": "谨慎卖出"
+      "name": "机器人50ETF",
+      "symbol": "562500.SS",
+      "score": -3,
+      "rec": "卖出"
     },
     {
       "name": "亚马逊",
@@ -60,6 +54,18 @@
     {
       "name": "阿里巴巴",
       "symbol": "9988.HK",
+      "score": -1,
+      "rec": "谨慎卖出"
+    },
+    {
+      "name": "贵州茅台",
+      "symbol": "600519.SS",
+      "score": -1,
+      "rec": "谨慎卖出"
+    },
+    {
+      "name": "比亚迪",
+      "symbol": "002594.SZ",
       "score": -1,
       "rec": "谨慎卖出"
     }
