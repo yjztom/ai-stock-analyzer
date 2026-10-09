@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-10-09 00:54 UTC",
+  "generated_at": "2026-10-09 14:48 UTC",
   "date": "2026-10-09",
   "total": 34,
   "live_count": 33,
-  "buy_count": 10,
-  "sell_count": 11,
-  "hold_count": 13,
+  "buy_count": 13,
+  "sell_count": 6,
+  "hold_count": 15,
   "top_bull": [
     {
-      "name": "沪深300ETF",
-      "symbol": "510300.SS",
-      "score": 2,
-      "rec": "谨慎买入"
+      "name": "比亚迪",
+      "symbol": "002594.SZ",
+      "score": 3,
+      "rec": "买入"
     },
     {
-      "name": "机器人50ETF",
-      "symbol": "562500.SS",
+      "name": "微软",
+      "symbol": "MSFT",
       "score": 2,
       "rec": "谨慎买入"
     },
@@ -32,40 +32,40 @@
       "rec": "谨慎买入"
     },
     {
-      "name": "微软",
-      "symbol": "MSFT",
+      "name": "谷歌",
+      "symbol": "GOOGL",
       "score": 1,
       "rec": "谨慎买入"
     }
   ],
   "top_bear": [
     {
-      "name": "阿里巴巴",
-      "symbol": "9988.HK",
-      "score": -3,
-      "rec": "卖出"
-    },
-    {
-      "name": "云从科技",
-      "symbol": "688327.SS",
-      "score": -3,
-      "rec": "卖出"
+      "name": "中通快递",
+      "symbol": "ZTO",
+      "score": -2,
+      "rec": "谨慎卖出"
     },
     {
       "name": "亚马逊",
       "symbol": "AMZN",
-      "score": -2,
+      "score": -1,
       "rec": "谨慎卖出"
     },
     {
-      "name": "龙芯中科",
-      "symbol": "688047.SS",
-      "score": -2,
+      "name": "五粮液",
+      "symbol": "000858.SZ",
+      "score": -1,
       "rec": "谨慎卖出"
     },
     {
-      "name": "美团",
-      "symbol": "3690.HK",
+      "name": "西藏天路",
+      "symbol": "600326.SS",
+      "score": -1,
+      "rec": "谨慎卖出"
+    },
+    {
+      "name": "云从科技",
+      "symbol": "688327.SS",
       "score": -1,
       "rec": "谨慎卖出"
     }
