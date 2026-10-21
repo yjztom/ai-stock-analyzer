@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-10-21 13:19 UTC",
+  "generated_at": "2026-10-21 23:51 UTC",
   "date": "2026-10-21",
   "total": 34,
   "live_count": 33,
-  "buy_count": 7,
-  "sell_count": 11,
-  "hold_count": 16,
+  "buy_count": 10,
+  "sell_count": 7,
+  "hold_count": 17,
   "top_bull": [
+    {
+      "name": "苹果",
+      "symbol": "AAPL",
+      "score": 2,
+      "rec": "谨慎买入"
+    },
+    {
+      "name": "特斯拉",
+      "symbol": "TSLA",
+      "score": 2,
+      "rec": "谨慎买入"
+    },
+    {
+      "name": "英伟达",
+      "symbol": "NVDA",
+      "score": 1,
+      "rec": "谨慎买入"
+    },
     {
       "name": "微软",
       "symbol": "MSFT",
@@ -14,43 +32,13 @@
       "rec": "谨慎买入"
     },
     {
-      "name": "特斯拉",
-      "symbol": "TSLA",
-      "score": 1,
-      "rec": "谨慎买入"
-    },
-    {
-      "name": "招商银行",
-      "symbol": "600036.SS",
-      "score": 1,
-      "rec": "谨慎买入"
-    },
-    {
-      "name": "科创50ETF",
-      "symbol": "588000.SS",
-      "score": 1,
-      "rec": "谨慎买入"
-    },
-    {
-      "name": "云从科技",
-      "symbol": "688327.SS",
+      "name": "谷歌",
+      "symbol": "GOOGL",
       "score": 1,
       "rec": "谨慎买入"
     }
   ],
   "top_bear": [
-    {
-      "name": "苹果",
-      "symbol": "AAPL",
-      "score": -1,
-      "rec": "谨慎卖出"
-    },
-    {
-      "name": "谷歌",
-      "symbol": "GOOGL",
-      "score": -1,
-      "rec": "谨慎卖出"
-    },
     {
       "name": "腾讯控股",
       "symbol": "0700.HK",
@@ -66,6 +54,18 @@
     {
       "name": "中国平安",
       "symbol": "601318.SS",
+      "score": -1,
+      "rec": "谨慎卖出"
+    },
+    {
+      "name": "比亚迪",
+      "symbol": "002594.SZ",
+      "score": -1,
+      "rec": "谨慎卖出"
+    },
+    {
+      "name": "西藏天路",
+      "symbol": "600326.SS",
       "score": -1,
       "rec": "谨慎卖出"
     }
