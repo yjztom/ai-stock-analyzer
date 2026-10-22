@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-10-22 13:19 UTC",
+  "generated_at": "2026-10-22 23:47 UTC",
   "date": "2026-10-22",
   "total": 34,
   "live_count": 33,
-  "buy_count": 7,
+  "buy_count": 6,
   "sell_count": 12,
-  "hold_count": 15,
+  "hold_count": 16,
   "top_bull": [
     {
       "name": "苹果",
       "symbol": "AAPL",
-      "score": 2,
-      "rec": "谨慎买入"
+      "score": 3,
+      "rec": "买入"
     },
     {
-      "name": "特斯拉",
-      "symbol": "TSLA",
+      "name": "微软",
+      "symbol": "MSFT",
       "score": 2,
       "rec": "谨慎买入"
     },
@@ -26,14 +26,14 @@
       "rec": "谨慎买入"
     },
     {
-      "name": "英伟达",
-      "symbol": "NVDA",
+      "name": "特斯拉",
+      "symbol": "TSLA",
       "score": 1,
       "rec": "谨慎买入"
     },
     {
-      "name": "微软",
-      "symbol": "MSFT",
+      "name": "科创50ETF",
+      "symbol": "588000.SS",
       "score": 1,
       "rec": "谨慎买入"
     }
