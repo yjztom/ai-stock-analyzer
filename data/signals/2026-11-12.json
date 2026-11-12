@@ -1,21 +1,33 @@
 {
-  "generated_at": "2026-11-12 02:04 UTC",
+  "generated_at": "2026-11-12 16:27 UTC",
   "date": "2026-11-12",
   "total": 34,
   "live_count": 33,
   "buy_count": 7,
-  "sell_count": 13,
-  "hold_count": 14,
+  "sell_count": 12,
+  "hold_count": 15,
   "top_bull": [
     {
-      "name": "国电南瑞",
-      "symbol": "600406.SS",
+      "name": "双环传动",
+      "symbol": "002472.SZ",
       "score": 2,
       "rec": "谨慎买入"
     },
     {
-      "name": "苹果",
-      "symbol": "AAPL",
+      "name": "英伟达",
+      "symbol": "NVDA",
+      "score": 1,
+      "rec": "谨慎买入"
+    },
+    {
+      "name": "微软",
+      "symbol": "MSFT",
+      "score": 1,
+      "rec": "谨慎买入"
+    },
+    {
+      "name": "亚马逊",
+      "symbol": "AMZN",
       "score": 1,
       "rec": "谨慎买入"
     },
@@ -24,27 +36,9 @@
       "symbol": "1810.HK",
       "score": 1,
       "rec": "谨慎买入"
-    },
-    {
-      "name": "招商银行",
-      "symbol": "600036.SS",
-      "score": 1,
-      "rec": "谨慎买入"
-    },
-    {
-      "name": "五粮液",
-      "symbol": "000858.SZ",
-      "score": 1,
-      "rec": "谨慎买入"
     }
   ],
   "top_bear": [
-    {
-      "name": "科创50ETF",
-      "symbol": "588000.SS",
-      "score": -2,
-      "rec": "谨慎卖出"
-    },
     {
       "name": "芯原股份",
       "symbol": "688521.SS",
@@ -52,20 +46,26 @@
       "rec": "谨慎卖出"
     },
     {
-      "name": "华工科技",
-      "symbol": "000988.SZ",
-      "score": -2,
-      "rec": "谨慎卖出"
-    },
-    {
-      "name": "英伟达",
-      "symbol": "NVDA",
+      "name": "五粮液",
+      "symbol": "000858.SZ",
       "score": -1,
       "rec": "谨慎卖出"
     },
     {
-      "name": "微软",
-      "symbol": "MSFT",
+      "name": "西藏天路",
+      "symbol": "600326.SS",
+      "score": -1,
+      "rec": "谨慎卖出"
+    },
+    {
+      "name": "科创50ETF",
+      "symbol": "588000.SS",
+      "score": -1,
+      "rec": "谨慎卖出"
+    },
+    {
+      "name": "云从科技",
+      "symbol": "688327.SS",
       "score": -1,
       "rec": "谨慎卖出"
     }
