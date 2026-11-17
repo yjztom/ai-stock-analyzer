@@ -1,21 +1,15 @@
 {
-  "generated_at": "2026-11-17 03:20 UTC",
+  "generated_at": "2026-11-17 17:14 UTC",
   "date": "2026-11-17",
   "total": 34,
   "live_count": 33,
-  "buy_count": 11,
-  "sell_count": 10,
+  "buy_count": 13,
+  "sell_count": 8,
   "hold_count": 13,
   "top_bull": [
     {
-      "name": "国电南瑞",
-      "symbol": "600406.SS",
-      "score": 3,
-      "rec": "买入"
-    },
-    {
-      "name": "贵州茅台",
-      "symbol": "600519.SS",
+      "name": "微软",
+      "symbol": "MSFT",
       "score": 2,
       "rec": "谨慎买入"
     },
@@ -36,25 +30,19 @@
       "symbol": "AMZN",
       "score": 1,
       "rec": "谨慎买入"
+    },
+    {
+      "name": "腾讯控股",
+      "symbol": "0700.HK",
+      "score": 1,
+      "rec": "谨慎买入"
     }
   ],
   "top_bear": [
     {
-      "name": "腾讯控股",
-      "symbol": "0700.HK",
+      "name": "云从科技",
+      "symbol": "688327.SS",
       "score": -2,
-      "rec": "谨慎卖出"
-    },
-    {
-      "name": "埃斯顿",
-      "symbol": "002747.SZ",
-      "score": -2,
-      "rec": "谨慎卖出"
-    },
-    {
-      "name": "英伟达",
-      "symbol": "NVDA",
-      "score": -1,
       "rec": "谨慎卖出"
     },
     {
@@ -64,8 +52,20 @@
       "rec": "谨慎卖出"
     },
     {
-      "name": "云从科技",
-      "symbol": "688327.SS",
+      "name": "西藏天路",
+      "symbol": "600326.SS",
+      "score": -1,
+      "rec": "谨慎卖出"
+    },
+    {
+      "name": "华自科技",
+      "symbol": "300490.SZ",
+      "score": -1,
+      "rec": "谨慎卖出"
+    },
+    {
+      "name": "沪深300ETF",
+      "symbol": "510300.SS",
       "score": -1,
       "rec": "谨慎卖出"
     }
