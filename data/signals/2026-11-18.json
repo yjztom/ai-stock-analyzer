@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-11-18 02:40 UTC",
+  "generated_at": "2026-11-18 16:49 UTC",
   "date": "2026-11-18",
   "total": 34,
   "live_count": 33,
   "buy_count": 11,
-  "sell_count": 7,
-  "hold_count": 16,
+  "sell_count": 9,
+  "hold_count": 14,
   "top_bull": [
     {
-      "name": "双环传动",
-      "symbol": "002472.SZ",
+      "name": "国电南瑞",
+      "symbol": "600406.SS",
+      "score": 4,
+      "rec": "买入"
+    },
+    {
+      "name": "贵州茅台",
+      "symbol": "600519.SS",
       "score": 2,
       "rec": "谨慎买入"
     },
     {
       "name": "苹果",
       "symbol": "AAPL",
-      "score": 1,
-      "rec": "谨慎买入"
-    },
-    {
-      "name": "特斯拉",
-      "symbol": "TSLA",
       "score": 1,
       "rec": "谨慎买入"
     },
@@ -40,9 +40,21 @@
   ],
   "top_bear": [
     {
-      "name": "英伟达",
-      "symbol": "NVDA",
-      "score": -1,
+      "name": "腾讯控股",
+      "symbol": "0700.HK",
+      "score": -2,
+      "rec": "谨慎卖出"
+    },
+    {
+      "name": "机器人50ETF",
+      "symbol": "562500.SS",
+      "score": -2,
+      "rec": "谨慎卖出"
+    },
+    {
+      "name": "埃斯顿",
+      "symbol": "002747.SZ",
+      "score": -2,
       "rec": "谨慎卖出"
     },
     {
@@ -52,20 +64,8 @@
       "rec": "谨慎卖出"
     },
     {
-      "name": "美团",
-      "symbol": "3690.HK",
-      "score": -1,
-      "rec": "谨慎卖出"
-    },
-    {
-      "name": "宁德时代",
-      "symbol": "300750.SZ",
-      "score": -1,
-      "rec": "谨慎卖出"
-    },
-    {
-      "name": "雪迪龙",
-      "symbol": "002658.SZ",
+      "name": "云从科技",
+      "symbol": "688327.SS",
       "score": -1,
       "rec": "谨慎卖出"
     }
